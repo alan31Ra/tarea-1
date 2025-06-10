@@ -38,17 +38,22 @@ de tareas o temas en específico.
 
 ---
 
-## 2. Configuración de Repositorio en GitHub
-
-1. Ve a [https://github.com](https://github.com) y accede a tu cuenta.
-2. Haz clic en **New repository**.
-3. Asigna un nombre al repositorio (por ejemplo: `proyecto-xyz`).
-4. Marca la opción "Initialize this repository with a README" si lo deseas.
-5. Crea el repositorio.
+## 2. Configuración de Repositorio en GitHub desde Git Bash
 
 
-✏️ *Explica aquí si el repositorio será público o privado y por qué.*
+1. Crear un nuevo repositorio vacío en GitHub desde [https://github.com](https://github.com).  
+   - **No** marcar la opción *"Initialize this repository with a README"*.  
+   - Asignar un nombre al repositorio.
+   - Seleccionar si será **público** o **privado**.  
 
+✏️ *En este caso el repositorio será público para que los compañeros puedan visualizarlo en caso de que tengan alguna duda.*
+
+2. Abrir **Git Bash** en la carpeta local de tu proyecto:
+
+   ```bash
+   cd ruta/de/el/proyecto
+
+![FINAL](https://github.com/alan31Ra/tarea-1/blob/5ef03a3da9c0b39733395a7739d8549ea90c4962/imagenes/Captura%20de%20pantalla%202025-06-09%20105840.png)
 ---
 
 ## 3. Generación de Personal Access Token (PAT)
@@ -117,16 +122,5 @@ git config --global credential.helper manager
 
 ✏️ *Puedes comentar sobre buenas prácticas para configurar múltiples cuentas si se usan.*
 
----
-
-## 6. Conclusión
-
-Con estos pasos realizados:
-
-- Se cuenta con un canal de comunicación funcional en Discord.
-- El repositorio en GitHub está listo para control de versiones.
-- Git está instalado y configurado correctamente.
-
-📌 *A partir de aquí puedes comenzar el trabajo colaborativo usando ramas, pull requests y commits firmados.*
 
 ---

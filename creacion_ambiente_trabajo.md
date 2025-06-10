@@ -19,16 +19,20 @@ Esta guía proporciona los pasos necesarios para configurar un entorno de trabaj
 ## 1. Creación de Canal en Discord
 
 1. Acceder a [https://discord.com](https://discord.com) e iniciar sesión.
+![INICIO DE SESION](https://github.com/alan31Ra/tarea-1/blob/9ff17f07eabe4c753b97958c558f2df003847004/imagenes/Captura%20de%20pantalla%202025-06-09%20195628.png)
+
 2. Hacer clic en el botón `+` para crear un nuevo servidor.
+![INICIO DE SESION](https://github.com/alan31Ra/tarea-1/blob/f7dced70a56008c910f2424cfdd35939be0b4a4a/imagenes/Captura%20de%20pantalla%202025-06-09%20203619.png)
+
 3. Elegir "Crear Mi Propio Servidor" y seguir los pasos del asistente.
 4. Crea un canal con nombre adecuado para la comunicación del equipo.
 
-📸 **Imagen sugerida:** captura del proceso de creación del servidor  
-`![Creación de servidor en Discord](ruta/a/la/imagen1.png)`
-![INICIO DE SESION](https://github.com/alan31Ra/tarea-1/blob/9ff17f07eabe4c753b97958c558f2df003847004/imagenes/Captura%20de%20pantalla%202025-06-09%20195628.png)
 
 
-✏️ *Agregar una breve descripción del propósito del canal.*
+✏️ *DESCRIPCION*
+Al crear un canal de Discord se facilita la comunicación, además de tener una mejor organización de la información, ya que cuenta con divisiones que ayudan a la distribución 
+de tareas o temas en específico.
+
 
 ---
 

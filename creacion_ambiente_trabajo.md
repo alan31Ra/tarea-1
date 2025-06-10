@@ -94,7 +94,12 @@ personal access tokens.
    - `repo`
    - `workflow`
    - `etc`
-![X](https://github.com/alan31Ra/tarea-1/blob/c34e1c0dc548ca86726a9308fd6be3f125e9e7a2/imagenes/Captura%20de%20pantalla%202025-06-09%20103807.png)
+
+   <p align="center">
+      <img src="https://github.com/alan31Ra/tarea-1/blob/c34e1c0dc548ca86726a9308fd6be3f125e9e7a2/imagenes/Captura%20de%20pantalla%202025-06-09%20103807.png"
+      width="450">
+   </p>
+
 
 5. Copiar el token generado y guárdalo en un lugar seguro.
 
@@ -111,13 +116,13 @@ personal access tokens.
 
 <p align="center">
   <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20104936.png"
-  " width="400">
+  " width="450">
 </p>
 
 3. Aceptar las opciones predeterminadas (salvo que se requiera una configuración especial).
 <p align="center">
   <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105016.png"
-  " width="400">
+  " width="450">
 </p>
 
 
@@ -125,18 +130,18 @@ personal access tokens.
 
 <p align="center">
   <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105153.png"
-  width="400">
+  width="450">
 </p>
 
 5. Finalizar la instalación y ejecutar Git Bash.<br><br>
 
 <p align="center">
-  <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105303.png" width="400">
+  <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105303.png" width="450">
 </p>
 
 6. Se podrá usar la terminal de GIT  
 <p align="center">
-  <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105447.png" width="400">
+  <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105447.png" width="450">
 </p>
 
 ---

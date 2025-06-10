@@ -32,7 +32,7 @@ Esta guía proporciona los pasos necesarios para configurar un entorno de trabaj
 ![FINAL](https://github.com/alan31Ra/tarea-1/blob/431ca171e2fcdbb305469fb5252369434d395b05/imagenes/Captura%20de%20pantalla%202025-06-09%20204718.png)
 
 ✏️ *DESCRIPCION*
-Al crear un canal de Discord se facilita la comunicación, además de tener una mejor organización de la información, ya que cuenta con divisiones que ayudan a la distribución 
+Al crear un canal de Discord se facilita la comunicación, además de tener una mejor organización de la información, ya que cuenta con divisiones (CANALES DE TEXTO) que ayudan a la distribución 
 de tareas o temas en específico.
 
 
@@ -56,17 +56,29 @@ de tareas o temas en específico.
 ## 3. Generación de Personal Access Token (PAT)
 
 1. Ve a [https://github.com/settings/tokens](https://github.com/settings/tokens).
+
+![X](https://github.com/alan31Ra/tarea-1/blob/c34e1c0dc548ca86726a9308fd6be3f125e9e7a2/imagenes/Captura%20de%20pantalla%202025-06-09%20103640.png)
+
+Al momento de  entrar a Settings se debe seleccionar *Developer Settings*  y despues 
+personal access tokens.
+
 2. Haz clic en **Generate new token**.
+![X](https://github.com/alan31Ra/tarea-1/blob/c34e1c0dc548ca86726a9308fd6be3f125e9e7a2/imagenes/Captura%20de%20pantalla%202025-06-09%20103655.png)
+
 3. Asigna un nombre y define la expiración.
+![X](https://github.com/alan31Ra/tarea-1/blob/c34e1c0dc548ca86726a9308fd6be3f125e9e7a2/imagenes/Captura%20de%20pantalla%202025-06-09%20103726.png)
+
 4. Marca los permisos necesarios, como:
    - `repo`
    - `workflow`
+   -  etc
+![X](https://github.com/alan31Ra/tarea-1/blob/c34e1c0dc548ca86726a9308fd6be3f125e9e7a2/imagenes/Captura%20de%20pantalla%202025-06-09%20103807.png)
+
 5. Copia el token generado y guárdalo en un lugar seguro.
 
-📸 **Imagen sugerida:** vista de configuración de token  
-`![Generación del token en GitHub](ruta/a/la/imagen3.png)`
 
-⚠️ *Nota: El token no podrá verse nuevamente después de salir de la página. Guarda una copia segura.*
+
+⚠️ *Nota: El token no podrá verse nuevamente después de salir de la página. Guardar una copia segura.*
 
 ---
 

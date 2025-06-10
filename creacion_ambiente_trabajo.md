@@ -108,13 +108,16 @@ personal access tokens.
 
 1. Descarga Git desde: [https://git-scm.com/download/win](https://git-scm.com/download/win).
 2. Ejecuta el instalador.<br><br>
-![X](https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20104936.png)
 
+<p align="center">
+  <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20104936.png"
+  " width="400">
+</p>
 
-3. Acepta las opciones predeterminadas (salvo que se requiera una configuración especial).
+3. Aceptar las opciones predeterminadas (salvo que se requiera una configuración especial).
 <p align="center">
   <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105016.png"
-  " width="300">
+  " width="400">
 </p>
 
 
@@ -122,18 +125,18 @@ personal access tokens.
 
 <p align="center">
   <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105153.png"
-  width="300">
+  width="400">
 </p>
 
 5. Finalizar la instalación y ejecutar Git Bash.<br><br>
 
 <p align="center">
-  <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105303.png" width="300">
+  <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105303.png" width="400">
 </p>
 
 6. Se podrá usar la terminal de GIT  
 <p align="center">
-  <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105447.png" width="300">
+  <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105447.png" width="400">
 </p>
 
 ---

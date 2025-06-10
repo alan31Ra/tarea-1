@@ -52,8 +52,15 @@ de tareas o temas en específico.
 
    ```bash
    cd ruta/de/el/proyecto
+   ```
 
-![FINAL](https://github.com/alan31Ra/tarea-1/blob/431ca171e2fcdbb305469fb5252369434d395b05/imagenes/Captura%20de%20pantalla%202025-06-09%20204718.png)
+![FINAL](https://github.com/alan31Ra/tarea-1/blob/16a464b62bc8832ddad0bc90be1b5410e1b09988/imagenes/Captura%20de%20pantalla%202025-06-09%20105840.png)
+
+3. Clonar el repositorio principal
+
+![FINAL](https://github.com/alan31Ra/tarea-1/blob/16a464b62bc8832ddad0bc90be1b5410e1b09988/imagenes/Captura%20de%20pantalla%202025-06-09%20105931.png)
+
+4. Posteriormente se pueden hacer modificaciones en él
 
  ```bash
    git init
@@ -63,6 +70,8 @@ de tareas o temas en específico.
    git branch -M main
    git push -u origin main
 ```
+![FINAL](https://github.com/alan31Ra/tarea-1/blob/16a464b62bc8832ddad0bc90be1b5410e1b09988/imagenes/Captura%20de%20pantalla%202025-06-09%20110447.png)
+
 
 ---
 

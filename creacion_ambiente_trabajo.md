@@ -83,7 +83,7 @@ personal access tokens.
 ## 4. Instalación de Git para Windows
 
 1. Descarga Git desde: [https://git-scm.com/download/win](https://git-scm.com/download/win).
-2. Ejecuta el instalador.
+2. Ejecuta el instalador.<br><br>
 ![X](https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20104936.png)
 
 

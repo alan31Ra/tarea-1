@@ -125,16 +125,3 @@ personal access tokens.
 
 
 ---
-
-## 5. Configuración Inicial de Git
-
-Ejecutar los siguientes comandos desde Git Bash:
-
-```bash
-git config --global user.name "Tu Nombre"
-git config --global user.email "tu@email.com"
-git config --global credential.helper manager
-```
-
-
----

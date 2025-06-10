@@ -136,10 +136,5 @@ git config --global user.email "tu@email.com"
 git config --global credential.helper manager
 ```
 
-📸 **Imagen sugerida:** terminal Git Bash con los comandos ejecutados  
-`![Configuración inicial de Git](ruta/a/la/imagen5.png)`
-
-✏️ *Puedes comentar sobre buenas prácticas para configurar múltiples cuentas si se usan.*
-
 
 ---

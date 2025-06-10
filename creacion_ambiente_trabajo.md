@@ -104,7 +104,7 @@ personal access tokens.
 
 ## 5. Configuración Inicial de Git
 
-Ejecuta estos comandos desde Git Bash:
+Ejecutar los siguientes comandos desde Git Bash:
 
 ```bash
 git config --global user.name "Tu Nombre"
@@ -130,9 +130,5 @@ Con estos pasos realizados:
 📌 *A partir de aquí puedes comenzar el trabajo colaborativo usando ramas, pull requests y commits firmados.*
 
 ---
+<img src="https://via.placeholder.com/300" alt="Ejemplo" width="150" height="100">
 
-## 📎 Anexos (Opcional)
-
-- [ ] Enlaces útiles
-- [ ] Recursos del equipo
-- [ ] Plantillas para issues o documentación interna

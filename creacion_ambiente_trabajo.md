@@ -37,9 +37,8 @@ Esta guía proporciona los pasos necesarios para configurar un entorno de trabaj
       <img src="https://github.com/alan31Ra/tarea-1/blob/431ca171e2fcdbb305469fb5252369434d395b05/imagenes/Captura%20de%20pantalla%202025-06-09%20204718.png"width="450">
    </p>
 
-✏️ *DESCRIPCION*
-Al crear un canal de Discord se facilita la comunicación, además de tener una mejor organización de la información, ya que cuenta con divisiones (CANALES DE TEXTO) que ayudan a la distribución 
-de tareas o temas en específico.
+
+*Al crear un canal de Discord se facilita la comunicación, además de tener una mejor organización de la información, ya que cuenta con divisiones (CANALES DE TEXTO) que ayudan a la distribución de tareas o temas en específico.*
 
 
 ---
@@ -52,7 +51,7 @@ de tareas o temas en específico.
    - Asignar un nombre al repositorio.
    - Seleccionar si será **público** o **privado**.  
 
-✏️ *En este caso el repositorio será público para que los compañeros puedan visualizarlo en caso de que tengan alguna duda.*
+*En este caso el repositorio será público para que los compañeros puedan visualizarlo en caso de que tengan alguna duda.*
 
 2. Abrir **Git Bash** en la carpeta local de tu proyecto:
 
@@ -110,7 +109,7 @@ personal access tokens.
    <p align="center">
       <img src="https://github.com/alan31Ra/tarea-1/blob/c34e1c0dc548ca86726a9308fd6be3f125e9e7a2/imagenes/Captura%20de%20pantalla%202025-06-09%20103726.png"width="450">
    </p>
-   
+
 4. Marcar los permisos necesarios, como:
    - `repo`
    - `workflow`
@@ -125,7 +124,7 @@ personal access tokens.
 
 
 
-⚠️ *Nota: El token no podrá verse nuevamente después de salir de la página. Guardar una copia segura.*
+*Nota: El token no podrá verse nuevamente después de salir de la página. Guardar una copia segura.*
 
 ---
 

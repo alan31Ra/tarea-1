@@ -112,14 +112,17 @@ personal access tokens.
 
 
 3. Acepta las opciones predeterminadas (salvo que se requiera una configuración especial).
-![X](https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105016.png)
+<p align="center">
+  <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105016.png"
+  " width="300">
+</p>
+
 
 4.Dar *Siguiente* hasta que aparezca la siguiente ventana: <br><br>
 
-
 <p align="center">
-  <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105153.png
-  " width="300">
+  <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105153.png"
+  width="300">
 </p>
 
 5. Finalizar la instalación y ejecutar Git Bash.<br><br>

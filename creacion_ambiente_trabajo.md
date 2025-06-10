@@ -96,8 +96,7 @@ personal access tokens.
    - `etc`
 
    <p align="center">
-      <img src="https://github.com/alan31Ra/tarea-1/blob/c34e1c0dc548ca86726a9308fd6be3f125e9e7a2/imagenes/Captura%20de%20pantalla%202025-06-09%20103807.png"
-      width="450">
+      <img src="https://github.com/alan31Ra/tarea-1/blob/c34e1c0dc548ca86726a9308fd6be3f125e9e7a2/imagenes/Captura%20de%20pantalla%202025-06-09%20103807.png"width="450">
    </p>
 
 

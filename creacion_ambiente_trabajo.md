@@ -130,5 +130,5 @@ Con estos pasos realizados:
 📌 *A partir de aquí puedes comenzar el trabajo colaborativo usando ramas, pull requests y commits firmados.*
 
 ---
-<img src="https://via.placeholder.com/300" alt="Ejemplo" width="150" height="100">
+<img src="https://www.google.com/search?gs_ssp=eJzj4tDP1TfILoovMWD04kjOz0kpyEmsBABAogaZ&q=coldplay&oq=cold&gs_lcrp=EgZjaHJvbWUqCggBEC4YsQMYgAQyDwgAEEUYORiDARixAxiABDIKCAEQLhixAxiABDIKCAIQLhixAxiABDIQCAMQLhjHARixAxjRAxiABDIKCAQQABixAxiABDIKCAUQABixAxiABDIHCAYQABiABDIHCAcQABiABDIQCAgQLhiDARjUAhixAxiABNIBCDIyMzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#vhid=E7NbM66s2yQ8CM&vssid=_zaxHaKDTMbCsptQPvO6z2Qc_37" alt="Ejemplo" width="150" height="100">
 

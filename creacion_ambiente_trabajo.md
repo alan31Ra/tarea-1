@@ -62,7 +62,7 @@ de tareas o temas en específico.
    git remote add origin https://github.com/tuusuario/proyecto-xyz.git
    git branch -M main
    git push -u origin main
-
+```
 
 ---
 

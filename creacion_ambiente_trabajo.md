@@ -21,9 +21,10 @@ Esta guía proporciona los pasos necesarios para configurar un entorno de trabaj
 1. Acceder a [https://discord.com](https://discord.com) e iniciar sesión.
 ![INICIO DE SESION](https://github.com/alan31Ra/tarea-1/blob/9ff17f07eabe4c753b97958c558f2df003847004/imagenes/Captura%20de%20pantalla%202025-06-09%20195628.png)
 
-2. Hacer clic en el botón `+` para crear un nuevo servidor. <br>
+2. Hacer clic en el botón `+` para crear un nuevo servidor. 
+<br><br>
+
 ![INICIO DE SESION](https://github.com/alan31Ra/tarea-1/blob/f7dced70a56008c910f2424cfdd35939be0b4a4a/imagenes/Captura%20de%20pantalla%202025-06-09%20203619.png)
-<br>
 
 3. Elegir "Crear Mi Propio Servidor" y seguir los pasos del asistente.
 4. Crea un canal con nombre adecuado para la comunicación del equipo.

@@ -163,4 +163,6 @@ personal access tokens.
   <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105447.png" width="450">
 </p>
 
+
+*NOTA: Se intentó instalar SDKMAN teniendo exito solo en WSL en la distribución de Ubuntu, ya que está especialmente implementado para distribuciones de linux, en el caso de Windows no se puede usar de forma nativa *
 ---

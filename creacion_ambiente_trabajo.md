@@ -53,7 +53,17 @@ de tareas o temas en específico.
    ```bash
    cd ruta/de/el/proyecto
 
-![FINAL](https://github.com/alan31Ra/tarea-1/blob/5ef03a3da9c0b39733395a7739d8549ea90c4962/imagenes/Captura%20de%20pantalla%202025-06-09%20105840.png)
+![FINAL](https://github.com/alan31Ra/tarea-1/blob/431ca171e2fcdbb305469fb5252369434d395b05/imagenes/Captura%20de%20pantalla%202025-06-09%20204718.png)
+
+ ```bash
+   git init
+   git add . //Para añadir cualquier archivo al Git
+   git commit -m "Primer commit"
+   git remote add origin https://github.com/tuusuario/proyecto-xyz.git
+   git branch -M main
+   git push -u origin main
+
+
 ---
 
 ## 3. Generación de Personal Access Token (PAT)

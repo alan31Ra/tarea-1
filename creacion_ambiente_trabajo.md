@@ -46,8 +46,6 @@ de tareas o temas en específico.
 4. Marca la opción "Initialize this repository with a README" si lo deseas.
 5. Crea el repositorio.
 
-📸 **Imagen sugerida:** captura de pantalla del formulario de creación de repositorio  
-`![Formulario de creación de repositorio](ruta/a/la/imagen2.png)`
 
 ✏️ *Explica aquí si el repositorio será público o privado y por qué.*
 
@@ -55,26 +53,26 @@ de tareas o temas en específico.
 
 ## 3. Generación de Personal Access Token (PAT)
 
-1. Ve a [https://github.com/settings/tokens](https://github.com/settings/tokens).
+1. Clic en [https://github.com/settings/tokens](https://github.com/settings/tokens).
 
 ![X](https://github.com/alan31Ra/tarea-1/blob/c34e1c0dc548ca86726a9308fd6be3f125e9e7a2/imagenes/Captura%20de%20pantalla%202025-06-09%20103640.png)
 
 Al momento de  entrar a Settings se debe seleccionar *Developer Settings*  y despues 
 personal access tokens.
 
-2. Haz clic en **Generate new token**.
+2. Hacer clic en **Generate new token**.
 ![X](https://github.com/alan31Ra/tarea-1/blob/c34e1c0dc548ca86726a9308fd6be3f125e9e7a2/imagenes/Captura%20de%20pantalla%202025-06-09%20103655.png)
 
 3. Asigna un nombre y define la expiración.
 ![X](https://github.com/alan31Ra/tarea-1/blob/c34e1c0dc548ca86726a9308fd6be3f125e9e7a2/imagenes/Captura%20de%20pantalla%202025-06-09%20103726.png)
 
-4. Marca los permisos necesarios, como:
+4. Marcar los permisos necesarios, como:
    - `repo`
    - `workflow`
-   -  etc
+   - `etc`
 ![X](https://github.com/alan31Ra/tarea-1/blob/c34e1c0dc548ca86726a9308fd6be3f125e9e7a2/imagenes/Captura%20de%20pantalla%202025-06-09%20103807.png)
 
-5. Copia el token generado y guárdalo en un lugar seguro.
+5. Copiar el token generado y guárdalo en un lugar seguro.
 
 
 
@@ -86,10 +84,20 @@ personal access tokens.
 
 1. Descarga Git desde: [https://git-scm.com/download/win](https://git-scm.com/download/win).
 2. Ejecuta el instalador.
-3. Acepta las opciones predeterminadas (salvo que se requiera una configuración especial).
+![X](https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20104936.png)
 
-📸 **Imagen sugerida:** proceso de instalación paso a paso  
-`![Instalación de Git](ruta/a/la/imagen4.png)`
+
+3. Acepta las opciones predeterminadas (salvo que se requiera una configuración especial).
+![X](https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105016.png)
+
+4.Dar *Siguiente* hasta que aparezca la siguiente ventana: 
+![X](https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105153.png)
+
+5. Finalizar la instalación.
+![X](https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105303.png)
+
+6. Se podrá usar la terminal de GIT  
+![X](https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105447.png)
 
 ✏️ *Especificar aquí si se requiere alguna configuración personalizada (por ejemplo: uso de editores como VS Code).*
 

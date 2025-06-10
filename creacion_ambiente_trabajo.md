@@ -25,7 +25,7 @@ Esta guía proporciona los pasos necesarios para configurar un entorno de trabaj
 
 📸 **Imagen sugerida:** captura del proceso de creación del servidor  
 `![Creación de servidor en Discord](ruta/a/la/imagen1.png)`
-![INICIO DE SESION]("imagenes\Captura de pantalla 2025-06-09 195628.png")
+![INICIO DE SESION]("imagenes/Captura de pantalla 2025-06-09 195628.png")
 
 ✏️ *Agregar una breve descripción del propósito del canal.*
 

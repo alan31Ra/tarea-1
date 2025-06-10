@@ -93,13 +93,12 @@ personal access tokens.
 4.Dar *Siguiente* hasta que aparezca la siguiente ventana: 
 ![X](https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105153.png)
 
-5. Finalizar la instalación.
+5. Finalizar la instalación y ejecutar Git Bash.
 ![X](https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105303.png)
 
 6. Se podrá usar la terminal de GIT  
 ![X](https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105447.png)
 
-✏️ *Especificar aquí si se requiere alguna configuración personalizada (por ejemplo: uso de editores como VS Code).*
 
 ---
 

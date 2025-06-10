@@ -121,7 +121,9 @@ personal access tokens.
 ![X](https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105303.png)
 
 6. Se podrá usar la terminal de GIT  
-![X](https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105447.png)
+<p align="center">
+  <img src="https://github.com/alan31Ra/tarea-1/blob/fe1666f3dc62ab297cb7292afbd8f5ee4619a879/imagenes/Captura%20de%20pantalla%202025-06-09%20105447.png" width="300">
+</p>
 
 
 ---
